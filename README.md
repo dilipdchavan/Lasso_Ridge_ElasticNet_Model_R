@@ -1,7 +1,9 @@
 # Lasso_Ridge_ElasticNet_Model_R
 
 ## Lasso Regrssion: 
-    This will eliminate many features, and reduce overfitting in linear model. (This model is well suited for variable selection/parameter elimination.)
+    
+    This will eliminate many features, and reduce overfitting in linear model. 
+    (This model is well suited for variable selection/parameter elimination.)
 ## Ridge Regression:
 This will reduce the impact of features that are not important in predicting your y values. Dataset has multicollinearity (correlations between predictor variables).
 ## Elastic Net Regression:
